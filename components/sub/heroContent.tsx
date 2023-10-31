@@ -34,7 +34,7 @@ const HeroContent = () => {
             variants={slideInFromLeft(0.8)}
             className='text-lg text-italic text-white my-5 max-w-[600px]'
             >
-                 Software Engineering<br></br> Toronto Metropolitan University  [2021 - 2025].  
+                 <i>Software Engineering<br></br> Toronto Metropolitan University  [2021 - 2025].</i>
             </motion.p>
             <motion.a
             variants={slideInFromLeft(1)}
