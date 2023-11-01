@@ -8,19 +8,20 @@ const Navbar = () => {
         <div className='w-full h-full flex flex-row items-center justify-between m-auto px-[10px]'>
             <a href="#about-me" className='h-auto w-auto flex flex-row items-center'>
                 <Image
-                    src="/NavLogo.png"
+                    src="/deepstudioslogo.jpg"
                     alt="logo"
                     width={70}
                     height={70}
-                    className='cursor-pointer hover:animate-slow-spin'
+                    className='cursor-pointer hover:animate-spin'
                 />
-                <span className='font-bold ml-[10px] hidden md:block text-gray-300'>FullStack Dev</span>
+                <span className='font-bold ml-[10px] hidden md:block text-gray-300'>Deep Patel</span>
             </a>
-            <div className='w-[500px] h-full flex flex-row items-center justify-between md:mr-20'>
+            <div className='w-[800px] h-full flex flex-row items-center justify-between md:mr-20'>
                 <div className='flex items-center w-full h-auto justify-between border border-[#7042f861] bg-[#0300145e] mr-[15px] px-[20px] py-[10px] rounded-full text-gray-200'>
                     <a href="#about-me" className='cursor-pointer'>About Me</a>
                     <a href="#skills" className='cursor-pointer'>Skills</a>
                     <a href="#projects" className='cursor-pointer'>Projects</a>
+                    <a href="#contact" className='cursor-pointer'>Socials/Contact</a>
                 </div>
             </div>
             <div className='flex flex-row gap-5'>
