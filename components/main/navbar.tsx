@@ -26,7 +26,28 @@ const Navbar = () => {
                 </div>
             </div>
             <div className='flex flex-row gap-5'>
-                {Socials.map((social) => (
+                <a href="https://github.com/deep-patel21" target='_blank'>
+                <Image  src='/github.png'
+                        alt='github'
+                        width={24}
+                        height={24}
+                    />    
+                </a>
+                <a href="https://www.linkedin.com/in/dpatel3337/" target='_blank'>
+                <Image  src='/linkedin.png'
+                        alt='github'
+                        width={24}
+                        height={24}
+                    />    
+                </a>
+                <a href="mailto:deepstudios21@gmail.com">
+                <Image  src='/gmail.png'
+                        alt='gmail'
+                        width={30}
+                        height={20}
+                    />    
+                </a>
+               {/* {Socials.map((social) => (
                     <Image 
                         src={social.src}
                         alt={social.name}
@@ -34,7 +55,7 @@ const Navbar = () => {
                         width={24}
                         height={24}
                     />
-                ))}
+               ))} */}
             </div>
         </div>
     </div>
