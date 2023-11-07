@@ -34,6 +34,24 @@ const Projects = () => {
                 title="General Purpose Processor"
                 description="Combines decoders, FSMs, registers, and an ALU to create a GPP in VHDL."/>
         </div>
+        <div className='h-full py-[20px] w-full flex flex-col md:flex-row gap-10 px-10'>
+            <ProjectCard 
+                src="/ReactNative .png"
+                title="AutoCL Generator"
+                description="Use an Excel file to list desired companies and create .docx and .pdf cover letters in seconds."/>
+            <ProjectCard 
+                src="/NextWebsite.png"
+                title="2-Stage BJT Amplifier"
+                description="Highly customizable finance portfolio visualization tool. Allows year-by-year growth analysis."/>
+            <ProjectCard 
+                src="/shoemap.png"
+                title="Bookstore POS Application"
+                description="Modern website built using Next.js, Three.js, and TailwindCSS, as a personal showcase of merit."/>
+            <ProjectCard 
+                src="/CardImage.png"
+                title="Engineering Economics Calculator"
+                description="Combines decoders, FSMs, registers, and an ALU to create a GPP in VHDL."/>    
+        </div>
     </div>
   )
 }
