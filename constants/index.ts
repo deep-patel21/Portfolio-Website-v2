@@ -298,18 +298,36 @@ export const Other_skill = [
 
 export const experiences = [
   {
+    title: "BlogCrafters",
+    company_name: "The Stratagem Group | Toronto, ON",
+    icon:  "experience/blogCraftersLogo.png",
+    iconBg: "#1e2124",
+    date: "November 2023 - Present",
+    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS. Backend managed using Python and JavaScript.",
+    website: "",
+  },
+  {
     title: "DevOps Engineering Intern",
     company_name: "Bell Canada | Toronto, ON",
-    icon: "/bellcanada.png",
+    icon: "experience/bellcanada.png",
     iconBg: "#fff",
     date: "May 2023 - Aug 2023",
     description: "Incorporated Agile methodologies and git version control to create a Linux DNS record automation project. Achieved 90% reduction in maintenance times by using Jinja2 templating in Ansible.",
     website: "https://jobs.bell.ca/ca/en/campus-internship-network-and-technology",
   },
   {
+    title: "Computer Engineering Student",
+    company_name: "Toronto Metropolitan University | Toronto, ON",
+    icon: "experience/tmu_flat_logo.png",
+    iconBg: "#fff",
+    date: "September 2021 - April 2025",
+    description: "Relevant Courses: Data Structures and Algorithms, Software Systems, Database System, Digital Systems, Microprocessor Systems, Semiconductor Physics",
+    website: "https://jobs.bell.ca/ca/en/campus-internship-network-and-technology",
+  },
+  {
     title: "Assistant Piano Teacher",
     company_name: "The Royal Conservatory of Music | Toronto, ON",
-    icon:  "/royalmusic.jpg",
+    icon:  "experience/royalmusic.jpg",
     iconBg: "#603fef",
     date: "April 2018 - September 2021",
     description: "Assisted lead piano teacher to educate 10+ cohorts of students aged 5-16 in Grades 1A to 6 of the RCOM Syllabus. Also, performed administrative orders for music equipment, and piano books.",
@@ -318,7 +336,7 @@ export const experiences = [
   {
     title: "Media Creation Intern",
     company_name: "The Stratagem Group | Toronto, ON",
-    icon:  "/stratagem.jpg",
+    icon:  "experience/stratagem.jpg",
     iconBg: "#ff0000",
     date: "July 2020 - August 2020",
     description: "Used various media creation tools (Photoshop, Blender, Powerpoint) to create creative slideshows for top companies in the Arts and Culture Division of Toronto. Clients included Live Nation Canada, The Remix Project, and Wattpad.",

@@ -14,7 +14,7 @@ const WorkExperience = () => {
             <div className=''>
                 <motion.div variants={slideInFromTop} className='text-4xl font-medium text-center text-white'>
                     <span className='text-transparent text-[100px] text-bold font-bold bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500'>
-                        Work Experience
+                        Experience
                     </span>
                 </motion.div>
             </div>

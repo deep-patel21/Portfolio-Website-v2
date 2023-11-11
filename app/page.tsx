@@ -5,6 +5,7 @@ import Hero from '@/components/main/hero'
 import Projects from '@/components/main/projects'
 import Skills from '@/components/main/skills'
 import WorkExperience from '@/components/main/workExperience'
+import Footer from '@/components/main/footer'
 import Image from 'next/image'
 
 export default function Home() {
