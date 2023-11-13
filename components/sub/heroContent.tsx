@@ -39,11 +39,11 @@ const HeroContent = () => {
             </motion.p>
             <motion.a
             variants={slideInFromLeft(1)}
-            className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]'
-            href=''
+            className='py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] z-[20] hover:ring-2 ring-white'
+            href='Deep_Patel_Resume.pdf' download
             >
-                <RxDownload className='inline-block mr-[10px] h-5 w-5' />
-               Download Resume
+                <RxDownload className='inline-block mr-[10px] h-5 w-5 z-[21]' />
+                Download Resume
             </motion.a>
         </div>
         <motion.div

@@ -297,7 +297,7 @@ export const Other_skill = [
 ];
 
 export const experiences = [
-  {
+ /* {
     title: "BlogCrafters",
     company_name: "The Stratagem Group | Toronto, ON",
     icon:  "experience/blogCraftersLogo.png",
@@ -305,7 +305,7 @@ export const experiences = [
     date: "November 2023 - Present",
     description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS. Backend managed using Python and JavaScript.",
     website: "",
-  },
+  }, */
   {
     title: "DevOps Engineering Intern",
     company_name: "Bell Canada | Toronto, ON",

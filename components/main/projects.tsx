@@ -31,7 +31,7 @@ const Projects = () => {
                 width={1000}
                 height={1000}
                 project_link = "http://www.github.com/deep-patel21/"
-                skills='HTML, CSS, JS'
+                skills='HTML, CSS, JS, Chart.js'
                 description="Highly customizable finance portfolio visualization tool. Allows year-by-year growth analysis."/>
             <ProjectCard 
                 src="/moviedb_react_version.png"
@@ -95,7 +95,7 @@ const Projects = () => {
                 description="Helps users visualize sorting algorithms. Use keyboard switches to cycle options."/>
             <ProjectCard 
                 src="/f1mouse.png"
-                title="F1 Video Game Mouse Steering Script"
+                title="F1 Video Game Mouse Steering"
                 width={1000}
                 height={1000}
                 project_link = "http://www.github.com/deep-patel21/"
