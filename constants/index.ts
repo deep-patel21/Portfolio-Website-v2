@@ -306,15 +306,15 @@ export const experiences = [
     description: "Assisted the development of Intelligence, Surveillance, and Reconnaissance (ISR) systems using industry standard C programming in the embedded systems and devops domains.",
     website: "https://www.l3harris.com/en-ca/canada?regional_redirect=en-ca",
   }, 
-  {
+  /*{
     title: "BlogCrafters",
     company_name: "The Stratagem Group | Toronto, ON",
     icon:  "experience/blogCraftersLogo.png",
     iconBg: "#1e2124",
     date: "November 2023 - Present",
-    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS. Backend managed using Python and JavaScript.",
+    description: "Utilized HTML, CSS, and JavaScript to create 20+ blog style pages, catering to the reading entertainment insdustry for a variety of audiences.",
     website: "",
-  }, 
+  }, */
   {
     title: "DevOps Engineer",
     company_name: "Bell Canada | Toronto, ON",
