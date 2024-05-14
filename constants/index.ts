@@ -297,26 +297,26 @@ export const Other_skill = [
 ];
 
 export const experiences = [
-   {
+  {
     title: "Software Engineer",
     company_name: "L3Harris Technologies | Hamilton, ON",
-    icon:  "experience/blogCraftersLogo.png",
-    iconBg: "#1e2124",
+    icon:  "experience/l3harris.jpg",
+    iconBg: "	#ff000a",
     date: "May 2024 - Present",
-    description: "",
-    website: "",
+    description: "Assisted the development of Intelligence, Surveillance, and Reconnaissance (ISR) systems using industry standard C programming in the embedded systems and devops domains.",
+    website: "https://www.l3harris.com/en-ca/canada?regional_redirect=en-ca",
   }, 
- /* {
-    title: "Frontend Developer",
-    company_name: "BlogCrafters | Toronto, ON",
+  {
+    title: "BlogCrafters",
+    company_name: "The Stratagem Group | Toronto, ON",
     icon:  "experience/blogCraftersLogo.png",
     iconBg: "#1e2124",
     date: "November 2023 - Present",
-    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS.",
+    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS. Backend managed using Python and JavaScript.",
     website: "",
-  }, */
+  }, 
   {
-    title: "DevOps Engineering Intern",
+    title: "DevOps Engineer",
     company_name: "Bell Canada | Toronto, ON",
     icon: "experience/bellcanada.png",
     iconBg: "#fff",
@@ -343,7 +343,7 @@ export const experiences = [
     website: "https://www.rcmusic.com/",
   },
   {
-    title: "Media Creation Intern",
+    title: "Project Designer",
     company_name: "The Stratagem Group | Toronto, ON",
     icon:  "experience/stratagem.jpg",
     iconBg: "#ff0000",
