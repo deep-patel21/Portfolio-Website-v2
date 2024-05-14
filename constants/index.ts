@@ -297,13 +297,22 @@ export const Other_skill = [
 ];
 
 export const experiences = [
+   {
+    title: "Software Engineer",
+    company_name: "L3Harris Technologies | Hamilton, ON",
+    icon:  "experience/blogCraftersLogo.png",
+    iconBg: "#1e2124",
+    date: "May 2024 - Present",
+    description: "",
+    website: "",
+  }, 
  /* {
-    title: "BlogCrafters",
-    company_name: "The Stratagem Group | Toronto, ON",
+    title: "Frontend Developer",
+    company_name: "BlogCrafters | Toronto, ON",
     icon:  "experience/blogCraftersLogo.png",
     iconBg: "#1e2124",
     date: "November 2023 - Present",
-    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS. Backend managed using Python and JavaScript.",
+    description: "Leveraged Selenium scraping methodologies to develop 20+ blog pages for audiences in various industries. Frontend built using HTML, CSS.",
     website: "",
   }, */
   {
