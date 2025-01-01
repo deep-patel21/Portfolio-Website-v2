@@ -22,7 +22,7 @@ const Projects = () => {
                 title="Notes4You Music App"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://docs.google.com/document/d/16hnnu0o__C1A-FUVzJwtuiF1q9_kjVvE3sSVBvgWtvM/edit?tab=t.0"
                 skills='Flask, Python, HTML, CSS, JS, OAuth'
                 description="Finds MIDI Piano tutorials for Spotify playlists. Leverages Spotify API and YouTubeAPI."/>
             <ProjectCard 
@@ -30,7 +30,7 @@ const Projects = () => {
                 title="Systematic Invesment Calculator"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/Systematic-Investment-Planning"
                 skills='HTML, CSS, JS, Chart.js'
                 description="Highly customizable finance portfolio visualization tool. Allows year-by-year growth analysis."/>
             <ProjectCard 
@@ -38,7 +38,7 @@ const Projects = () => {
                 title="MovieDB"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/MovieDB"
                 skills='SQL, UNIX, React.js, Oracle'
                 description="Database for all things film. Normalized. Visualized. Term project in CPS510."/>
             <ProjectCard 
@@ -46,7 +46,7 @@ const Projects = () => {
                 title="General Purpose Processor"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://docs.google.com/document/d/1cN_pdQd3iZfBBKUJ1B91pH61KHAbWlCQ3FtCHFPSqdI/edit?tab=t.0"
                 skills='VHDL, Apache Quartus'
                 description="Combines decoders, FSMs, registers, and an ALU to create a GPP. Term project in COE328."/>
         </div>
@@ -56,7 +56,7 @@ const Projects = () => {
                 title="AutoCL Generator"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/Automated-Cover-Letters"
                 skills='Python, docx2pdf, openpyxl, pathlib'
                 description="Input Excel file of companies, get folders with auto-made CV in .docx and .pdf"/>
             <ProjectCard 
@@ -72,7 +72,7 @@ const Projects = () => {
                 title="Engineering Economics Calculator"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/Engineering-Economics-Calculator/"
                 skills='C (Programming Language)'
                 description="Useful for econ. homework practice. 7 Options: compounding, sinking fund, capt. recovery, etc."/>
             <ProjectCard 
@@ -80,7 +80,7 @@ const Projects = () => {
                 title="Personal Portfolio Website"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/Portfolio-Website-v2"
                 skills='Next.js, TailwindCSS, Three.js'
                 description="Modern website with functional contact form, animations, etc. as a personal showcase of skills."/>
         </div>
@@ -90,7 +90,7 @@ const Projects = () => {
                 title="Sorting Algorithms Visualizer"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/Sorting-Visualizer/"
                 skills='Python, Pygame, Algorithms'
                 description="Helps users visualize sorting algorithms. Use keyboard switches to cycle options."/>
             <ProjectCard 
@@ -98,7 +98,7 @@ const Projects = () => {
                 title="F1 Video Game Mouse Steering"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/F1-22-Mouse-Steering-Clone"
                 skills='Python, vJoy, FreePIE'
                 description="Script to enable users without Xbox controllers to play F1 racing with PC mouse steering."/>
             <ProjectCard 
@@ -106,7 +106,7 @@ const Projects = () => {
                 title="Bookstore POS Application"
                 width={1000}
                 height={1000}
-                project_link = "http://www.github.com/deep-patel21/"
+                project_link = "https://github.com/deep-patel21/COE528-Term-Project"
                 skills='Java, JavaFX, Figma, Design Patterns'
                 description="POS application for owners to manage inventory and customers to buy books. Has login and serialization."/>    
             <ProjectCard 
